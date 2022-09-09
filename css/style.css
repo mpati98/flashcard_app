@@ -1,0 +1,36 @@
+.title{
+    font-family: Lobster;
+    text-align: center;
+}
+
+.term{
+    border: solid 5px black;
+    border-radius: 15px;
+    text-align: center;
+    width: 45%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.definition{
+    border: solid 5px black;
+    border-radius: 15px;
+    text-align: center;
+    width: 45%;
+    margin: auto;
+    margin-top: 100px;
+    display: none;
+}
+.button{
+    text-align: center;
+    margin-top: 100px;
+}
+button{
+    color: gray;
+    background-color: rgba(83, 253, 85, 0.5);
+    padding: 20px;
+    border-radius: 15px;
+}
+button:hover{
+    transform: scale(1.1);
+}
